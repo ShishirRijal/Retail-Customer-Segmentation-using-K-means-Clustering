@@ -57,3 +57,7 @@ The K-means clustering algorithm is trained on the preprocessed data using the o
 
 ## Evaluation
 The evaluation involves using metrics such as silhouette score and inertia. Silhouette score measures the quality of the clusters, and inertia represents the sum of squared distances from each point to its assigned cluster center. Both metrics are plotted against the number of clusters to identify the optimal configuration.
+
+## Snapshot
+<img width="674" alt="Screenshot 2024-01-17 at 4 31 36 PM" src="https://github.com/ShishirRijal/Retail-Customer-Segmentation-using-K-means-Clustering/assets/63596895/7ac5cf9e-a245-48b0-8898-aeecd938fcff">
+
